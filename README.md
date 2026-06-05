@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/COLOQUE_AQUI_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/enzo-a-amorim/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:enzoamorim11@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="COLOQUE_AQUI_SEU_PORTFOLIO">
+  <a href="https://portfolio-eaa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -100,36 +100,46 @@ Sistema web desenvolvido para controle financeiro pessoal, com foco em organiza�
 - Deploy com Vercel
 
 <p>
-  <a href="COLOQUE_AQUI_O_LINK_DO_SITE_CONTROLE_FINANCEIRO">
+  <a href="https://controle-financeiro-ea.vercel.app">
     <img src="https://img.shields.io/badge/Acessar%20Projeto-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_CONTROLE_FINANCEIRO">
+  <a href="https://github.com/enzoaamorim/controle-financeiro">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🍔🚀 Food Rocket
+### 🛒 Committers
 
-Projeto de site com tema de **fast-food espacial**, desenvolvido com identidade visual personalizada e foco em experiência do usuário.
+Sistema de **e-commerce** desenvolvido como projeto acadêmico do curso de **Análise e Desenvolvimento de Sistemas**, com foco na venda de produtos de tecnologia e organização de diferentes perfis de usuários.
 
 **O projeto possui:**
 
-- Página Home
-- Tela de Login
-- Menu de produtos
-- Página Sobre
-- Página Contato
+- Cadastro, edição e exclusão de usuários
+- Controle de permissões por perfil
+- Catálogo de produtos
+- Busca e filtros de produtos
 - Carrinho de compras
-- Layout responsivo
-- Efeitos visuais em botões e elementos
+- Checkout
+- Histórico de pedidos
+- Administração do sistema
+- Gerenciamento de estoque
+- Relatórios e análise de vendas
+
+**Tecnologias utilizadas:**
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- Spring Boot
+- Maven
+- MySQL
+- Git
 
 <p>
-  <a href="COLOQUE_AQUI_O_LINK_DO_SITE_FOOD_ROCKET">
-    <img src="https://img.shields.io/badge/Acessar%20Projeto-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_FOOD_ROCKET">
+  <a href="https://github.com/enzoaamorim/Committers">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -149,10 +159,10 @@ Projeto criado para apresentar minhas informações profissionais, tecnologias, 
 - Contato direto
 
 <p>
-  <a href="COLOQUE_AQUI_O_LINK_DO_SITE_PORTFOLIO">
+  <a href="https://portfolio-eaa.vercel.app">
     <img src="https://img.shields.io/badge/Acessar%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_PORTFOLIO">
+  <a href="https://github.com/enzoaamorim/portfolio-enzo">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -302,7 +312,7 @@ Boas práticas de desenvolvimento
 ## 📫 Como falar comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/COLOQUE_AQUI_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/enzo-a-amorim/">
     <img src="https://img.shields.io/badge/LinkedIn-Enzo%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:enzoamorim11@gmail.com">
